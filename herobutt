@@ -1,0 +1,19 @@
+$DEF int plebcount
+
+$plebcount = 167898
+
+::myfunc
+	prn "dae? XD: "$plebcount$"\n"
+end
+
+::butts
+	prn "Hello how are you today?\n"
+	call myfunc
+end
+
+>>>
+
+$DEF int kek
+$kek = 5
+call butts
+prn "Have a fantastic day!\n"
